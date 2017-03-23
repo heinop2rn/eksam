@@ -1,12 +1,3 @@
-# eksam
-Veebiprogrammeerimise eksam
-
-Lehestiku lingid greeny-s:
-http://greeny.cs.tlu.ee/~heinparn/eksam/page/
-
-
-Andmebaas:
-
 CREATE TABLE `margid` (
   `mark` varchar(100) NOT NULL PRIMARY KEY
  
